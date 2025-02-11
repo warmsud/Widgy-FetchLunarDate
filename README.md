@@ -52,6 +52,6 @@ fetch('https://cdnjs.cloudflare.com/ajax/libs/lunar-javascript/1.6.12/lunar.min.
         console.log(JSON.stringify('农历'+month+'月'+day))
         //  选择性发送阴历结果
     })
-
+```
 ## 版权声明
 - 本脚本仅供学习与参考，使用请遵循依赖库的开源许可。
